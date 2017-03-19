@@ -1,0 +1,28 @@
+
+.jumbotron 
+{
+min-height: 600px;
+background-image: url("images/blur-1867429_640.jpg"); 
+background-size: cover; 
+}
+
+.social-buttons  
+{
+
+margin: 60px 60px 60px 60px;
+}
+
+.btn-twitter 
+{
+background-color: #00acee;
+border-color: #009ad5; 
+}
+
+.btn-facebook 
+{ background-color: #4868ac; 
+  border-color: #314776;
+}
+
+
+
+
